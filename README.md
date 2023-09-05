@@ -4,5 +4,8 @@
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=memachado&count_private=true&show_icons=true" align="center" height="150" />
 </a>
 
-I have accepted 958 completions in 6 different coding languages using Codeium from www.codeium.com!! <img alt="Codeium Stats" src="https://github.com/memachado/memachado/assets/20932346/c38f6214-1596-4d7c-8118-5df43671dd8b" align="center"/>
+<br>
+
+I have accepted 1,781 completions in 14 different coding languages using Codeium from www.codeium.com! ![image](https://github.com/memachado/memachado/assets/20932346/25813b23-9bff-402c-8b11-e951c9428195)
+
 
