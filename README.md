@@ -1,4 +1,4 @@
-### Hi there 👋
+### a life 👋
 
 <a href="https://github.com/memachado">
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=memachado&count_private=true&show_icons=true" align="center" height="150" />
@@ -10,3 +10,4 @@ I have accepted 2,105 completions in 16 different coding languages using Codeium
 
 
 
+### So Long, and Thanks for All the Fish 
