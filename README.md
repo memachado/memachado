@@ -1,4 +1,3 @@
-[![streak](https://codeium.com/badges/v2/user/memachado/streak)](https://codeium.com/profile/memachado)
 
 <a href="https://github.com/memachado">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=memachado&count_private=true&show_icons=true" />
